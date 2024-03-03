@@ -1,10 +1,15 @@
 ### Hi there 👋 I'm Liviu Bancila
 
 
-💡 Experienced in Java Development | Java EE, SE, framework like Spring, JavaFX, script language Groovy | Microsoft SQL | Backend concepts. Source code management like Git, GitHub.
-Also a basic experience with front end technologies.
+• Junior-Mid Level as Software QA Tester within Agile methodologies as Kanban. Proficient in different types of testing, also in technical documentation as Code Reviews, Test Cases and Summary Reports.
+• Testing tools like Postman for API Testing, JIRA, Trello
+• Background experience as software developer with Java for UI web apps using frameworks as JavaFx and Groovy scripting, XML, JSON.
+• Basic understanding of MsSQL
+• Front-end/Backend concepts
+• SCM - Git & GitHub
 
-🔭 Seeking to use learnt skills in software and hardware development. Eager to learn new software, programming paradigms and frameworks. I also learn and adapt very easily and quickly.
+• Soft skills:
+Effective communicator and a quick learner with strong adaptability, time management, problem-solving, creativity, teamwork, and active listening skills. Adept at conflict resolution and committed to continuous improvement.
 
 • ISTQB Certified Tester Foundation Level.
 • IT Server Administrators Certification.
