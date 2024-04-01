@@ -1,4 +1,4 @@
-// Hi there 👋 //
+// Hi there 👋
 
 • I'm @LiviuBancila 
 • I'm a Software QA Engineer 
@@ -6,4 +6,4 @@
 • I'm passionate about coding and tech
 • I'm looking for collaboration on Manual or Automated Testing projects
 
-Let's connect: http://linkedin.com/in/liviubancila
+Let's connect: http://linkedin.com/in/liviubancila //
