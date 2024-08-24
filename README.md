@@ -1,9 +1,10 @@
 // Hi there 👋
 
-📌Experienced in Software Engineering, with proven experience in design,
+<br 📌Experienced in Software Engineering, with proven experience in design,
 developing and deploying various types of applications like web applications,
-mobile applications, embedded systems or personalized software applications.
-📌Proficient in Java, Python, JavaScript, PHP, Node.Js, JavaScript
+mobile applications, embedded systems or personalized software applications. />
+
+<br 📌Proficient in Java, Python, JavaScript, PHP, Node.Js, JavaScript />
 < Java Frameworks: Spring, Groovy
 < Python Frameworks: Django, Flask
 < MERN Stack: MongoDB, ExpressJS, ReactJS, NodeJS
