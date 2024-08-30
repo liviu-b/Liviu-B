@@ -1,31 +1,31 @@
 // Hi there 👋
 
-📌Experienced in Software Engineering, with proven experience in design,
-developing and deploying various types of applications like web applications,
-mobile applications, embedded systems or personalized software applications.
+🔸Experienced in Software Engineering, with proven experience in design, developing and deploying various types of applications like web applications, mobile applications or personalized software applications.
+🔸FrontEnd & BackEnd expertise: Adept in developing robust, scalable back end systems and dynamic, user-friendly front end interfaces.
+🔸Specializing in Agile methodologies such as Kanban, JIRA or Trello.
 
-📌Proficient in Java, Python, JavaScript, PHP, Node.Js, JavaScript
+✔️FRONTEND:
+🔸JavaScript / Typescript
+🔸MERN Stack - MongoDB / ExpressJs / React / NodeJs
+🔸CSS Framework - Tailwind CSS
+🔸Webpack / Babel
 
-< Java Frameworks: Spring, Groovy
+✔️BACKEND:
+🔸Java - SpringBoot Framework / Groovy scripting
+🔸Python - Django / Flask Frameworks
+🔸PHP - Laravel Framework
+🔸CI/CD
 
-< Python Frameworks: Django, Flask
+✔️DATABASES:
+🔸PostgreSQL
+🔸MySQL
+🔸Redis
 
-< MERN Stack: MongoDB, ExpressJS, ReactJS, NodeJS
+✔️TESTING:
+🔸Testing with Selenium WebDriver
+🔸Postman - API Testing
 
-< PHP Frameworks: Laravel, Symfony
-
-📌Front End & Back End Expertise: Adept in developing robust, scalable back
-end systems and dynamic, user-friendly front end interfaces.
-
-📌 Database Management: Skilled in working with relational databases as
-MySQL, PostgreSQL or NoSQL as MongoDB
-
-📌 Testing tools like Selenium WebDriver & Postman for API Testing.
-
-📌 Specializing in Agile methodologies such as Kanban, JIRA or Trello. Skilled in
-various testing methods including automation testing with Java.
-
-📌 SCM - Git & GitHub
-
+✔️SCM:
+🔸GitHub
 
 Let's connect: http://linkedin.com/in/liviubancila //
