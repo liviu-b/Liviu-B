@@ -1,4 +1,4 @@
-// Hi there 👋
+// Hi there 👋 my name is Liviu and i'm...
 
 🔸Experienced in Software Engineering, with proven experience in design, developing and deploying various types of applications like web applications, mobile applications or personalized software applications.
 🔸FrontEnd & BackEnd expertise: Adept in developing robust, scalable back end systems and dynamic, user-friendly front end interfaces.
