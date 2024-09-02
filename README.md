@@ -1,31 +1,20 @@
-// Hi there 👋 my name is Liviu and i'm...
+Hi there 👋 my name is Liviu and i'm...
 
-🔸Experienced in Software Engineering, with proven experience in design, developing and deploying various types of applications like web applications, mobile applications or personalized software applications.
-🔸FrontEnd & BackEnd expertise: Adept in developing robust, scalable back end systems and dynamic, user-friendly front end interfaces.
-🔸Specializing in Agile methodologies such as Kanban, JIRA or Trello.
+🔸Experienced in Software Engineering, with proven experience in design,
+ developing and deploying various types of applications like web applications, mobile
+ applications or personalized software applications.
+🔸Front End & Back End expertise: Adept in developing robust, scalable back end
+ systems and dynamic, user-friendly front end interfaces.
+🔸Skilled in various testing methods Automation and Manual Testing.
 
-✔️FRONTEND:
-🔸JavaScript / Typescript
-🔸MERN Stack - MongoDB / ExpressJs / React / NodeJs
-🔸CSS Framework - Tailwind CSS
-🔸Webpack / Babel
+🔸Frontend: JavaScript/TypeScript • MERN Stack • Tailwind CSS • Webpack/Babel
 
-✔️BACKEND:
-🔸Java - SpringBoot Framework / Groovy scripting
-🔸Python - Django / Flask Frameworks
-🔸PHP - Laravel Framework
-🔸CI/CD
+🔸Backend: Python (Django, Flask) • RESTful APIs • Java (Groovy) • CI/CD
 
-✔️DATABASES:
-🔸PostgreSQL
-🔸MySQL
-🔸Redis
+🔸Databases: PostgreSQL • MySQL • Redis • MongoDB
 
-✔️TESTING:
-🔸Testing with Selenium WebDriver
-🔸Postman - API Testing
+🔸Testing: Selenium WebDriver • Postman for API Testing • Cypress / Jest for JS
 
-✔️SCM:
-🔸GitHub
+🔸Others: Ngnix webserver • GitHub & GitLab • JIRA • Kanban
 
 Let's connect: http://linkedin.com/in/liviubancila //
