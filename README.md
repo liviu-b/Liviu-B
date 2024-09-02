@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/liviu-b](https://github.com/liviu-b)
 
-- 💬 Ask me about **Mern Stack, Node, Programming**
+- 💬 Ask me about **Mern Stack, Node, Programming and collaborations**
 
 - ⚡ Fun fact **'The first computer “bug” was an actual real-life bug'**
 
