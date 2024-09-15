@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer from Romania</h3>
 
-- 🔭 I’m currently working on [Banking App](https://github.com/liviu-b/banking)
+- 🔭 I’m currently working on [Expenses Tracker App](https://github.com/liviu-b/expense-tracker)
 
 - 🤝 I’m looking for help with **design, developing and deploying various types of applications like web applications, mobile applications or personalized software applications.**
 
