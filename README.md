@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Liviu</h1>
 
-<h3 align="center">A passionate Software Engineer from Romania</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Romania</h3>
 
 - 🔭 I’m currently working on [Expenses Tracker App](https://github.com/liviu-b/expense-tracker)
 
