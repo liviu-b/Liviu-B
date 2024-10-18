@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Mern Stack, JavaScript, Programming and collaborations**
 
-- ⚡ Fun fact **'The first computer “bug” was an actual real-life bug'**
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="left">Languages and Tools:</h3>
