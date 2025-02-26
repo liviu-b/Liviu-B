@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Liviu
 =============================================================================================================================
 
-### <div align="center">A passionate Full Stack Software Engineer 👨‍💻</div>  
+### <div align="center">A passionate Full Stack Software Developer 👨‍💻</div>  
   
 
 - 🌍  I'm based in Romania  
@@ -75,9 +75,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/https://github.com/liviu-b" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://dev.to/lbanc" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
