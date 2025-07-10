@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <div align="center">A passionate Full Stack Software Developer 👨‍💻</div>  
   
 
-- 🌍  I'm based in Romania  
+- 🌍 I'm based in Romania  
   
 
 - 🔭 See my portfolio at [My GitHub](http://github.com/liviu-b)  
@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 🤝  I'm open to collaborating on help you with design, developing and deploying various types of applications.  
+- 🤝 I'm open to collaborating on help you with design, developing and deploying various types of applications.  
   
 
 <br/>  
