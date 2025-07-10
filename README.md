@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## My Skill Set  
 <div align="center">
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -61,7 +61,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td></tr>
 </div>
 
 
