@@ -53,16 +53,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <div align="center">
         <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a>
       </div>
     </td>
-    <td valign="top" width="50%" colspan="2">
-      <h3 align="center">Agile & Tools</h3>
-      <div align="center">
-        <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jira-original-wordmark.svg" alt="Jira" height="40" /></a>
-        <a href="https://trello.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/trello-plain.svg" alt="Trello" height="40" /></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
-      </div>
     </td>
   </tr>
 </table>
