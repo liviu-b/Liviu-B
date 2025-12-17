@@ -37,7 +37,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### <div align="center">🧪 Testing</div>
 <div align="center">
   <a href="https://jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" style="margin: 5px;" /></a>
-  <a href="https://www.cypress.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cypress.png" alt="Cypress" height="50" style="margin: 5px;" /></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" height="50" style="margin: 5px;" /></a>
 </div>
 
@@ -45,10 +44,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
   <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 5px;" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 5px;" /></a>
-</div>
-
-### <div align="center">🤝 Agile Methods</div>
-<div align="center">
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jira-original-wordmark.svg" alt="Jira" height="50" style="margin: 5px;" /></a>
-  <a href="https://trello.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/trello-plain.svg" alt="Trello" height="50" style="margin: 5px;" /></a>
 </div>
