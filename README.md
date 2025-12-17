@@ -45,3 +45,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" style="margin: 5px;" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 5px;" /></a>
 </div>
+
+## Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviu-b&hide_border=true&layout=compact" />
+</div>
