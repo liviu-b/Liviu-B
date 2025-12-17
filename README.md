@@ -42,7 +42,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <h3 align="center">Testing</h3>
       <div align="center">
         <a href="https://jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" /></a>
-        <a href="https://www.cypress.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cypress.png" alt="Cypress" height="40" /></a>
         <a href="https://playwright.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" height="40" /></a>
       </div>
     </td>
