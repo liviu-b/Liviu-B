@@ -2,8 +2,8 @@
 ### <div align="center">A passionate Full Stack Software Developer 👨‍💻</div>  
 
 
-# 💫 About Me:
-< I'm currently working on some projects: MediConnect / WorkforceHub / Centralizator ><br>< Ask me about anything related to MERN stack and related technologies ><br>< I'm open to collaborating on help you with design, developing and deploying various types of applications. >
+# About Me:
+<A passionate Full Stack Software Developer 👨‍💻><br>< I'm currently working on some projects: MediConnect / WorkforceHub / Centralizator ><br>< Ask me about anything related to MERN stack and related technologies ><br>< I'm open to collaborating on help you with design, developing and deploying various types of applications. >
 
 
 # 💻 Tech Stack:
