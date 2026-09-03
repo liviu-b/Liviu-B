@@ -4,7 +4,7 @@
 
 
 # About Me:
-< A passionate Full Stack Software Developer 👨‍💻><br>< I'm currently working as contractor/freelancer programmer ><br>< Ask me about anything related to MERN stack and related technologies ><br>< I'm open to collaborating on help you with design, developing and deploying various types of applications. >
+< I'm a Senior Software Developer with several years of experience building production-ready systems, the last 3 focused on full-stack Node.js/TypeScript/React with a backend background before that. Delivered software end-to-end — architecture, data model, deployment, monitoring.. >
 
 
 # 💻 Tech Stack:
